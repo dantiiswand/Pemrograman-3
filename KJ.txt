@@ -1,0 +1,10 @@
+plain text ------Enkripsi ----> CYPERTEXT
+           <-----Deskripsi ---
+Enkripsi memiliki fungsi hash 
+fungsi hash buatn sendiri adalah md5, x mod 5, f(x) = .... log...
+Rumus diatas merupakan fungsi hash
+
+Permutasi / pergeseran
+Pesan : Aku cinta padamu
+Atur pesan tersebut menjadi 5 karakter tiap baris dengan menghilangkan spasi, jika terdapat sisa karakter yang tidak mengisi kolom maka untk mengisi karakter lain misalnya x
+maka pesan chyper yg didapat : ANPUK TAXUA DXCKA XIEMX
